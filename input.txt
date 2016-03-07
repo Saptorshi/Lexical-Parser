@@ -1,0 +1,9 @@
+#include <stdio.h>
+void main()
+{
+	int a,b,c;
+	printf("Enter");
+	while(a<b)
+		a=a+b;
+	c=a;
+}
